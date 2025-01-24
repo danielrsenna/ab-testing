@@ -23,6 +23,33 @@ Rep para estudos de Teste A/B
 </details>
 
 <details>
+  <summary>Github</summary>
+  
+  1. https://github.com/ashutoshnayakIE/AB-tutorial/blob/master/AB%20Tutorial%20Notebook.ipynb ❌
+  2. https://github.com/tantawy997/Analyze_ab_test_results_notebook/tree/main ❌
+  3. https://github.com/irsyadas/ab-testing-python/blob/main/AB_testing.ipynb ❌
+  4. https://github.com/niranjannagabhushan/Hypothesis-Testing ❌
+  5. https://github.com/mshaadk/AB-Testing-Marketing-Campaigns ❌
+  6. https://github.com/Illias-b/AB-Testing-Notebook/tree/main ❌
+  7. https://github.com/aspnmrv/ab_testing/tree/main ❌
+  8. https://github.com/nickbuker/bootstrap_for_ab_testing/tree/main ❌
+  9. https://github.com/alexriggio/ab_testing_simulation ❌
+  10. https://github.com/liuchbryan/oce-ecomm-abv-calculation ❌
+  11. https://github.com/liuchbryan/experiment_design_evaluation ❌
+  12. https://github.com/liuchbryan/ranking_under_lower_uncertainty?tab=readme-ov-file ❌
+</details>
+
+<details>
+  <summary>Dataset</summary>
+  
+  1. Artigo [**Datasheet for the ASOS Digital Experiments Dataset**](https://osf.io/vyuce) ❌
+     - Dados [**ASOS Digital Experiments Dataset**](https://osf.io/64jsb/)
+     - Github [OCE Dataset](https://github.com/liuchbryan/oce-dataset)
+  3. [2024-02 asos_digital_experiments_dataset](https://onedrive.live.com/view.aspx?resid=8612090E610871E4%21537613&authkey=!AD4N5UDfLe9tiH0) ❌
+
+</details>
+
+<details>
   <summary>Codecademy</summary>
   
   1. [Hypothesis Testing: Associations](https://www.codecademy.com/enrolled/courses/hypothesis-testing-associations) ⚠️
@@ -49,16 +76,6 @@ Rep para estudos de Teste A/B
   1. [A/B Testing Intuition Busters](https://drive.google.com/file/d/1oK2HpKKXeQLX6gQeQpfEaCGZtNr2kR76/view) ❌
   2. [Success Rate of Ideas vs. Experiments and the Implications of False Positive Statistically Significant Results](https://docs.google.com/document/d/1_D2IsIlR9HsdGpOg3J1g44G5VqfTkTVw/edit) ❌
   3. [REFUTED CAUSAL CLAIMS FROM OBSERVATIONAL STUDIES](https://onedrive.live.com/?authkey=%21ABK%5FhK0sjnN%5FXSg&id=8612090E610871E4%21358443&cid=8612090E610871E4&parId=root&parQt=sharedby&o=OneUp) ❌
-
-</details>
-
-<details>
-  <summary>Dataset</summary>
-  
-  1. Artigo [**Datasheet for the ASOS Digital Experiments Dataset**](https://osf.io/vyuce)
-     - Dados [**ASOS Digital Experiments Dataset**](https://osf.io/64jsb/)
-     - Github [OCE Dataset](https://github.com/liuchbryan/oce-dataset)
-  3. [2024-02 asos_digital_experiments_dataset](https://onedrive.live.com/view.aspx?resid=8612090E610871E4%21537613&authkey=!AD4N5UDfLe9tiH0)
 
 </details>
 
