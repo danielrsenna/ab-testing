@@ -6,8 +6,8 @@ Rep para estudos de Teste A/B
 <details>
   <summary>Cursos Udemy</summary>
   
-  1. [Bayesian Machine Learning in Python: A/B Testing](https://www.udemy.com/course/bayesian-machine-learning-in-python-ab-testing) ❌ 30%
-  2. [Ultimate AB Testing Course with Python Coding](https://www.udemy.com/course/ultimate-ab-testing-course-with-python-coding) ⚠️
+  1. [Bayesian Machine Learning in Python: A/B Testing](https://www.udemy.com/course/bayesian-machine-learning-in-python-ab-testing) ⚠️ 30% realizado 
+  2. [Ultimate AB Testing Course with Python Coding](https://www.udemy.com/course/ultimate-ab-testing-course-with-python-coding) ⏳
   
 </details>
 
@@ -52,7 +52,7 @@ Rep para estudos de Teste A/B
 <details>
   <summary>Codecademy</summary>
   
-  1. [Hypothesis Testing: Associations](https://www.codecademy.com/enrolled/courses/hypothesis-testing-associations) ⚠️
+  1. [Hypothesis Testing: Associations](https://www.codecademy.com/enrolled/courses/hypothesis-testing-associations) ⏳
   2. [Hypothesis Testing with Python](https://www.codecademy.com/learn/hypothesis-testing-python) 
   3. [Introduction to Hypothesis Testing](https://www.codecademy.com/learn/introduction-to-hypothesis-testing) 
   4. [Hypothesis Testing: Significance Thresholds](https://www.codecademy.com/learn/hypothesis-testing-significance-thresholds) 
@@ -62,9 +62,9 @@ Rep para estudos de Teste A/B
 <details>
   <summary>Livros</summary>
 
-  1. Trustworthy Online Controlled Experiments A Practical Guide to A/B Testing 
+  1. Trustworthy Online Controlled Experiments A Practical Guide to A/B Testing ⏳
   2. Experimentation for Engineers - [Github](https://github.com/dsweet99/e4e) 
-  3. Hands-On Data Science for Marketing Improve your marketing strategies with machine learning using Python and R - [Github](https://github.com/PacktPublishing/Hands-On-Data-Science-for-Marketing) 
+  3. Hands-On Data Science for Marketing Improve your marketing strategies with machine learning using Python and R - [Github](https://github.com/PacktPublishing/Hands-On-Data-Science-for-Marketing) ⏳
   4. Bandit Algorithms for Website Optimization - [Github](https://github.com/johnmyleswhite/BanditsBook) 
   5. Think Stats [Chapter 16 Hypothesis Testing](https://allendowney.github.io/ThinkStats/chap09.html) 
    
@@ -73,9 +73,9 @@ Rep para estudos de Teste A/B
 <details>
   <summary>Artigos</summary>
   
-  1. [A/B Testing Intuition Busters](https://drive.google.com/file/d/1oK2HpKKXeQLX6gQeQpfEaCGZtNr2kR76/view) 
-  2. [Success Rate of Ideas vs. Experiments and the Implications of False Positive Statistically Significant Results](https://docs.google.com/document/d/1_D2IsIlR9HsdGpOg3J1g44G5VqfTkTVw/edit) 
-  3. [REFUTED CAUSAL CLAIMS FROM OBSERVATIONAL STUDIES](https://onedrive.live.com/?authkey=%21ABK%5FhK0sjnN%5FXSg&id=8612090E610871E4%21358443&cid=8612090E610871E4&parId=root&parQt=sharedby&o=OneUp) 
+  1. [A/B Testing Intuition Busters](https://drive.google.com/file/d/1oK2HpKKXeQLX6gQeQpfEaCGZtNr2kR76/view) ✅
+  2. [Success Rate of Ideas vs. Experiments and the Implications of False Positive Statistically Significant Results](https://docs.google.com/document/d/1_D2IsIlR9HsdGpOg3J1g44G5VqfTkTVw/edit) ✅
+  3. [REFUTED CAUSAL CLAIMS FROM OBSERVATIONAL STUDIES](https://onedrive.live.com/?authkey=%21ABK%5FhK0sjnN%5FXSg&id=8612090E610871E4%21358443&cid=8612090E610871E4&parId=root&parQt=sharedby&o=OneUp) ✅
 
 </details>
 
@@ -89,11 +89,11 @@ Rep para estudos de Teste A/B
 <details>
   <summary>Medium</summary>
   
-  1. [Designing Experimentation Guardrails](https://medium.com/airbnb-engineering/designing-experimentation-guardrails-ed6a976ec669) 
+  1. [Designing Experimentation Guardrails](https://medium.com/airbnb-engineering/designing-experimentation-guardrails-ed6a976ec669) ✅
   
 </details>
  
 #### Legenda:
 - ✅ Concluído
-- ⚠️ Em Progresso
-- ❌ Interrompido/Pausado
+- ⏳ Em Progresso
+- ⚠️ Interrompido/Pausado
