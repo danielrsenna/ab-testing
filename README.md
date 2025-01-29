@@ -70,8 +70,8 @@ Rep para estudos de Teste A/B
   <summary>Livros</summary>
 
   1. Trustworthy Online Controlled Experiments A Practical Guide to A/B Testing ⏳
-  2. Experimentation for Engineers - [Github](https://github.com/dsweet99/e4e) 
-  3. Hands-On Data Science for Marketing Improve your marketing strategies with machine learning using Python and R - [Github](https://github.com/PacktPublishing/Hands-On-Data-Science-for-Marketing) ✅
+  2. Experimentation for Engineers - [Github](https://github.com/dsweet99/e4e) (chapt 1,2,7,8)
+  3. Hands-On Data Science for Marketing Improve your marketing strategies with machine learning using Python and R - [Github](https://github.com/PacktPublishing/Hands-On-Data-Science-for-Marketing) (chapt 12) ✅
   4. Bandit Algorithms for Website Optimization - [Github](https://github.com/johnmyleswhite/BanditsBook) 
   5. Think Stats [Chapter 16 Hypothesis Testing](https://allendowney.github.io/ThinkStats/chap09.html) 
    
