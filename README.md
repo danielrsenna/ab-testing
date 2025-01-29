@@ -4,6 +4,24 @@ Rep para estudos de Teste A/B
 
 ### Materiais Levantados:
 <details>
+  <summary>Datasets para Praticar</summary>
+  
+  1. ASOS Digital Experiments Dataset
+     - Artigo [**Datasheet for the ASOS Digital Experiments Dataset**](https://osf.io/vyuce) 
+     - Dados [**ASOS Digital Experiments Dataset**](https://osf.io/64jsb/)
+     - Github [OCE Dataset](https://github.com/liuchbryan/oce-dataset)
+     - Kaggle [ASOS Digital Experiments Dataset](https://www.kaggle.com/datasets/marinazmieva/asos-digital-experiments-dataset)
+     - Excel [2024-02 asos_digital_experiments_dataset](https://onedrive.live.com/view.aspx?resid=8612090E610871E4%21537613&authkey=!AD4N5UDfLe9tiH0)
+  2. Mobile Games: A/B Testing ⏳
+     - [Kaggle](https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing)
+  3. Fast Food Marketing Campaign ✅
+     - Kaggle [Fast Food Marketing Campaign A\B Test](https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test) ✅
+     - Github [WA_Fn-UseC_-Marketing-Campaign-Eff-UseC_-FastF](https://github.com/pthiagu2/DataMining/blob/master/WA_Fn-UseC_-Marketing-Campaign-Eff-UseC_-FastF.csv) ✅
+  5. Dataset [A/B test data](https://www.kaggle.com/datasets/sergylog/ab-test-data)  
+
+</details>
+
+<details>
   <summary>Cursos Udemy</summary>
   
   1. [Bayesian Machine Learning in Python: A/B Testing](https://www.udemy.com/course/bayesian-machine-learning-in-python-ab-testing) ⚠️ 30% realizado 
@@ -14,18 +32,18 @@ Rep para estudos de Teste A/B
 <details>
   <summary>Kaggle</summary>
   
-  1. Notebook [A/B Testing: Step by Step & Hypothesis Testing](https://www.kaggle.com/code/ekrembayar/a-b-testing-step-by-step-hypothesis-testing) 
-  2. Notebook [A/B Test on Fast Food Marketing Campaign](https://www.kaggle.com/code/duonghoanvu1/a-b-test-on-fast-food-marketing-campaign) 
-  3. Notebook [Hypothesis Testing ~ Step by Step](https://www.kaggle.com/code/eisgandar/hypothesis-testing-step-by-step) 
-  4. Dataset [ASOS Digital Experiments Dataset](https://www.kaggle.com/datasets/marinazmieva/asos-digital-experiments-dataset) 
-  5. Dataset [A/B test data](https://www.kaggle.com/datasets/sergylog/ab-test-data) 
+  1. Notebook [A/B Testing: Step by Step & Hypothesis Testing](https://www.kaggle.com/code/ekrembayar/a-b-testing-step-by-step-hypothesis-testing) ✅
+  2. Notebook [Hypothesis Testing ~ Step by Step](https://www.kaggle.com/code/eisgandar/hypothesis-testing-step-by-step)
+  3. Notebook [DataCamp Project Mobile Games A/B Testing](https://www.kaggle.com/code/yufengsui/datacamp-project-mobile-games-a-b-testing/notebook)
+  4. Notebook [A/B Test on Fast Food Marketing Campaign](https://www.kaggle.com/code/duonghoanvu1/a-b-test-on-fast-food-marketing-campaign) ✅
+  5. Notebook [A/B Testing of a Fast Food Marketing Campaign](https://www.kaggle.com/code/chebotinaa/a-b-testing-of-fast-food-marketing-campaign) ✅
 
 </details>
 
 <details>
   <summary>Github</summary>
   
-  1. https://github.com/ashutoshnayakIE/AB-tutorial/blob/master/AB%20Tutorial%20Notebook.ipynb 
+  1. https://github.com/ashutoshnayakIE/AB-tutorial/blob/master/AB%20Tutorial%20Notebook.ipynb ✅
   2. https://github.com/tantawy997/Analyze_ab_test_results_notebook/tree/main 
   3. https://github.com/irsyadas/ab-testing-python/blob/main/AB_testing.ipynb 
   4. https://github.com/niranjannagabhushan/Hypothesis-Testing 
@@ -34,20 +52,9 @@ Rep para estudos de Teste A/B
   7. https://github.com/aspnmrv/ab_testing/tree/main 
   8. https://github.com/nickbuker/bootstrap_for_ab_testing/tree/main 
   9. https://github.com/alexriggio/ab_testing_simulation 
-  10. https://github.com/liuchbryan/oce-ecomm-abv-calculation 
-  11. https://github.com/liuchbryan/experiment_design_evaluation 
-  12. https://github.com/liuchbryan/ranking_under_lower_uncertainty?tab=readme-ov-file 
 </details>
 
-<details>
-  <summary>Dataset</summary>
-  
-  1. Artigo [**Datasheet for the ASOS Digital Experiments Dataset**](https://osf.io/vyuce) 
-     - Dados [**ASOS Digital Experiments Dataset**](https://osf.io/64jsb/)
-     - Github [OCE Dataset](https://github.com/liuchbryan/oce-dataset)
-  3. [2024-02 asos_digital_experiments_dataset](https://onedrive.live.com/view.aspx?resid=8612090E610871E4%21537613&authkey=!AD4N5UDfLe9tiH0) 
 
-</details>
 
 <details>
   <summary>Codecademy</summary>
@@ -63,8 +70,8 @@ Rep para estudos de Teste A/B
   <summary>Livros</summary>
 
   1. Trustworthy Online Controlled Experiments A Practical Guide to A/B Testing ⏳
-  2. Experimentation for Engineers - [Github](https://github.com/dsweet99/e4e) 
-  3. Hands-On Data Science for Marketing Improve your marketing strategies with machine learning using Python and R - [Github](https://github.com/PacktPublishing/Hands-On-Data-Science-for-Marketing) ⏳
+  2. Experimentation for Engineers - [Github](https://github.com/dsweet99/e4e) (chapt 1,2,7,8)
+  3. Hands-On Data Science for Marketing Improve your marketing strategies with machine learning using Python and R - [Github](https://github.com/PacktPublishing/Hands-On-Data-Science-for-Marketing) (chapt 12) ✅
   4. Bandit Algorithms for Website Optimization - [Github](https://github.com/johnmyleswhite/BanditsBook) 
   5. Think Stats [Chapter 16 Hypothesis Testing](https://allendowney.github.io/ThinkStats/chap09.html) 
    
