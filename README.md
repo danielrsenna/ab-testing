@@ -14,10 +14,10 @@ Rep para estudos de Teste A/B
      - Excel [2024-02 asos_digital_experiments_dataset](https://onedrive.live.com/view.aspx?resid=8612090E610871E4%21537613&authkey=!AD4N5UDfLe9tiH0)
   2. Mobile Games: A/B Testing ⏳
      - [Kaggle](https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing)
-  3. Fast Food Marketing Campaign ⏳
-     - Kaggle [Fast Food Marketing Campaign A\B Test](https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test)
-     - Github [WA_Fn-UseC_-Marketing-Campaign-Eff-UseC_-FastF](https://github.com/pthiagu2/DataMining/blob/master/WA_Fn-UseC_-Marketing-Campaign-Eff-UseC_-FastF.csv)
-  5. Dataset [A/B test data](https://www.kaggle.com/datasets/sergylog/ab-test-data) 
+  3. Fast Food Marketing Campaign ✅
+     - Kaggle [Fast Food Marketing Campaign A\B Test](https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test) ✅
+     - Github [WA_Fn-UseC_-Marketing-Campaign-Eff-UseC_-FastF](https://github.com/pthiagu2/DataMining/blob/master/WA_Fn-UseC_-Marketing-Campaign-Eff-UseC_-FastF.csv) ✅
+  5. Dataset [A/B test data](https://www.kaggle.com/datasets/sergylog/ab-test-data)  
 
 </details>
 
@@ -36,7 +36,7 @@ Rep para estudos de Teste A/B
   2. Notebook [Hypothesis Testing ~ Step by Step](https://www.kaggle.com/code/eisgandar/hypothesis-testing-step-by-step)
   3. Notebook [DataCamp Project Mobile Games A/B Testing](https://www.kaggle.com/code/yufengsui/datacamp-project-mobile-games-a-b-testing/notebook)
   4. Notebook [A/B Test on Fast Food Marketing Campaign](https://www.kaggle.com/code/duonghoanvu1/a-b-test-on-fast-food-marketing-campaign) ✅
-  5. Notebook [A/B Testing of a Fast Food Marketing Campaign](https://www.kaggle.com/code/chebotinaa/a-b-testing-of-fast-food-marketing-campaign)
+  5. Notebook [A/B Testing of a Fast Food Marketing Campaign](https://www.kaggle.com/code/chebotinaa/a-b-testing-of-fast-food-marketing-campaign) ✅
 
 </details>
 
