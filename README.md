@@ -35,7 +35,7 @@ Rep para estudos de Teste A/B
   1. Notebook [A/B Testing: Step by Step & Hypothesis Testing](https://www.kaggle.com/code/ekrembayar/a-b-testing-step-by-step-hypothesis-testing) ✅
   2. Notebook [Hypothesis Testing ~ Step by Step](https://www.kaggle.com/code/eisgandar/hypothesis-testing-step-by-step)
   3. Notebook [DataCamp Project Mobile Games A/B Testing](https://www.kaggle.com/code/yufengsui/datacamp-project-mobile-games-a-b-testing/notebook)
-  4. Notebook [A/B Test on Fast Food Marketing Campaign](https://www.kaggle.com/code/duonghoanvu1/a-b-test-on-fast-food-marketing-campaign)
+  4. Notebook [A/B Test on Fast Food Marketing Campaign](https://www.kaggle.com/code/duonghoanvu1/a-b-test-on-fast-food-marketing-campaign) ✅
   5. Notebook [A/B Testing of a Fast Food Marketing Campaign](https://www.kaggle.com/code/chebotinaa/a-b-testing-of-fast-food-marketing-campaign)
 
 </details>
