@@ -45,7 +45,7 @@ Rep para estudos de Teste A/B
   
   1. https://github.com/ashutoshnayakIE/AB-tutorial/blob/master/AB%20Tutorial%20Notebook.ipynb ✅
   2. https://github.com/tantawy997/Analyze_ab_test_results_notebook/tree/main 
-  3. https://github.com/irsyadas/ab-testing-python/blob/main/AB_testing.ipynb 
+  3. https://github.com/irsyadas/ab-testing-python/blob/main/AB_testing.ipynb ✅
   4. https://github.com/niranjannagabhushan/Hypothesis-Testing 
   5. https://github.com/mshaadk/AB-Testing-Marketing-Campaigns 
   6. https://github.com/Illias-b/AB-Testing-Notebook/tree/main 
